@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Serving Engineer"
+  short_description: "Build, repair, optimize and validate AI model-serving runtimes"
+  brand_color: "#2563EB"
